@@ -5,3 +5,4 @@ Allows you to
 - Calculates your average expenses for a year
 - Display's graph of the data
 
+- Install Pyqt5 and Pyqtgraph before executing the project.
